@@ -4,7 +4,7 @@ layout: blank
 original: contribute
 ---
 
-# Contribua para o Programming Historian
+# Contribua para o Programming Historian Português
 
 O _Programming Historian_ funciona através da energia inesgotável de voluntários e queremos ouvir de todos aqueles que partilham o nosso interesse no ensino de métodos digitais, na criação de novos processos de revisão pelos pares e na construção da diversidade na comunidade das humanidades digitais. A seguir, delineamos formas comuns de contribuir; por favor, informe-nos de quaisquer ideias que tenha para alargar a participação.
 
@@ -32,7 +32,7 @@ De tempos a tempos podemos anunciar que estamos à procura de mais editores.
 
 <img src="{{site.baseurl}}/images/translator.png" class="garnish rounded float-right" />
 
-Se você é fluente em mais do que uma das nossas línguas de publicação (francês, inglês, espanhol), está convidado a entrar em contato conosco para traduzir uma das nossas lições do _Programming Historian_ publicadas de uma língua para outra. Isto irá ajudar-nos a construir comunidades multilingues de humanidades digitais e a construir a sua língua, método e competências tecnológicas.
+Se você é fluente em mais do que uma das nossas línguas de publicação (francês, inglês, espanhol, português), está convidado a entrar em contato conosco para traduzir uma das nossas lições do _Programming Historian_ publicadas de uma língua para outra. Isto irá ajudar-nos a construir comunidades multilingues de humanidades digitais e a construir a sua língua, método e competências tecnológicas.
 
 Procuramos traduções rigorosas e legíveis que tenham em conta os contextos de investigação em língua espanhola e francesa e os recursos disponíveis nas nossas respectivas comunidades. Se estiver interessado em colaborar, consulte as nossas instruções para autores e tradutores [em Espanhol](/es/guia-para-autores.html) and [em Françês](/fr/consignes-auteurs.html).
 
@@ -42,7 +42,7 @@ Procuramos traduções rigorosas e legíveis que tenham em conta os contextos de
 
 Nós agradeçemos pelo [feedback](feedback.html) de qualquer aspecto do _Programming Historian_. Diga-nos o que podemos fazer para tornar o projeto melhor!
 
-Estamos especialmente gratos por dicas sobre lições que parecem ter sido quebradas. À medida que os URLs mudam e à medida que novas versões de software e plataformas são lançadas, as lições desenvolvem falhas ao longo do tempo. Por favor ajude-nos a manter o _Programming Historian_ actualizado, informando-nos sobre estes quando os encontrar no decorrer da sua leitura.
+Estamos especialmente gratos por dicas sobre lições que parecem ter sido quebradas. A medida que os URLs mudam e à medida que novas versões de software e plataformas são lançadas, as lições desenvolvem falhas ao longo do tempo. Por favor ajude-nos a manter o _Programming Historian_ actualizado, informando-nos sobre estes quando os encontrar no decorrer da sua leitura.
 
 
 ## Nos adicione no catálogo de sua Biblioteca
