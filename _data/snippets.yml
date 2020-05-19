@@ -84,7 +84,7 @@ menu-contribute-retirement:
     link: /fr/politique-retrait-lecons
   pt:
     title: Regras para Remoção de Lições
-    link: /pt/licoes-regra-remocao
+    link: /pt/licoes-politica-retirada
 menu-contribute-technical:
   en:
     title: Technical Contributions
@@ -401,7 +401,7 @@ retired-date:
   en: retired
   es: retirada
   fr: retrait
-  pt: removido
+  pt: retirada
 difficulty:
   en: difficulty
   es: dificultad
@@ -496,7 +496,7 @@ retired:
   en: This lesson has been retired
   es: Esta lección ha sido retirada
   fr: Cette leçon n'est plus disponible
-  pt: Essa lição foi aposentada
+  pt: Essa lição foi retirada
 retired-meaning:
   en: What does this mean?
   es: ¿Qué significa esto?
@@ -516,7 +516,7 @@ retirement-reason:
   en: Why was this lesson retired?
   es: ¿Por qué ha sido retirada?
   fr: Pourquoi cette leçon a-t-elle été retirée?
-  pt: Por que essa lição foi aposentada?
+  pt: Por que essa lição foi retirada?
 
 # legacy
 and:

@@ -6,7 +6,7 @@ original: contribute
 
 # Contribua para o Programming Historian Português
 
-O _Programming Historian_ funciona através da energia inesgotável de voluntários e queremos ouvir de todos aqueles que partilham o nosso interesse no ensino de métodos digitais, na criação de novos processos de revisão pelos pares e na construção da diversidade na comunidade das humanidades digitais. A seguir, delineamos formas comuns de contribuir; por favor, informe-nos de quaisquer ideias que tenha para alargar a participação.
+O _Programming Historian_ funciona através da energia inesgotável de voluntários e queremos ouvir todos aqueles que partilham o nosso interesse no ensino de métodos digitais, na criação de novos processos de revisão pelos pares e na construção da diversidade na comunidade das humanidades digitais. A seguir, delineamos formas comuns de contribuir; por favor, informe-nos de quaisquer ideias que tenha para alargar a participação.
 
 ## Escreva uma lição
 
