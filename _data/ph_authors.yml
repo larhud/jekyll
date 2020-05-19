@@ -12,6 +12,8 @@
         Ontario.
     fr: |
         William J. Turkel est professeur d'histoire à l'Université Western Ontario.
+    pt: |
+        William J. Turkel é professor de história na Universidade de Western Ontario.
 
 - name: Alan MacEachern
   team_start: 2008
@@ -34,6 +36,8 @@
         ProgHist Ltd.
     fr: |
         ProgHist Ltd.
+    pt: |
+        ProgHist Ltd.
   bio:
     en: |
         Adam Crymble is a senior lecturer of digital history.
@@ -41,6 +45,8 @@
         Adam Crymble es profesor de historia digital.
     fr: |
         Adam Crymble est maître de conférences en histoire numérique.
+    pt: |
+        Adam Crymble é professor de História Digital.
   team_roles:
    - proghist
    - team-development-manager
@@ -59,6 +65,8 @@
         Caleb McDaniel is an associate professor of history at Rice University.
     es: |
         Caleb McDaniel es profesor asociado de Historia en Rice University.
+    pt: |
+        Caleb McDaniel é profesor associado de História na Universidade de Rice.
 
 - name: Ian Milligan
   team: false
@@ -71,12 +79,16 @@
         University of Waterloo, Canada.
     es: |
         Universidad de Waterloo, Canadá.
+    pt: |
+        Universidade de Waterloo, Canadá.
   bio:
     en: |
         Ian Milligan is an associate professor of history at the University
         of Waterloo.
     es: |
         Ian Milligan es profesor asociado de historia en la Universidad de Waterloo.
+    pt: |
+        Ian Milligan é professor associado história na Universidade de Waterloo.
 
 - name: Fred Gibbs
   team: false
@@ -90,6 +102,8 @@
         New Mexico.
     es: |
         Fred Gibbs es profesor de Historia en la Universidad de Nuevo México.
+    pt: |
+        Fred Gibbs é professor de História na Universidade do Novo México.
 
 - name: Maria José Afanador-Llach
   url: "http://www.mariajoseafanador.com"
@@ -107,6 +121,8 @@
         Universidad de los Andes, Colombia.
     fr: |
         Université de los Andes, Colombie.
+    pt: |
+        Universidade dos Andes, Colômbia.
   bio:
     en: |
         Maria José Afanador-Llach is an assistant professor of Digital Humanities and History at the Universidad de los Andes, Bogotá (Colombia).
@@ -114,6 +130,8 @@
         Maria José Afanador-Llach es profesora asistente de humanidades digitales e historia en la Universidad de los Andes, Bogotá (Colombia).
     fr: |
         Maria José Afanador-Llach est maître de conférences en Humanités numériques et histoire à l'Université de los Andes, (Bogota, Colombie).
+    pt: |
+        Maria José Afanador-Llach é professora assistente em Humanidades Digitais e História na Universidade dos Andes, (Bogotá, Colômbia).
   team_roles:
    - spanish
    - project-manager-at-large
@@ -137,13 +155,17 @@
         El Colegio de Michoacán, A.C. (CPI-CONACYT), México.
     fr: |
         El Colegio de Michoacán, A.C. (CPI-CONACYT), Mexique.
+    pt: |
+        Colegio de Michoacán, A.C. (CPI-CONACYT), México.
   bio:
     en: |
-        Víctor Gayol is a researcher and professor of history at El Colegio de Michoacán, A.C. (CPI-CONACYT), México.
+        Víctor Gayol is a researcher and professor of history at El Colegio de Michoacán, A.C. (CPI-CONACYT), Mexico.
     es: |
         Víctor Gayol es profesor investigador en el Centro de Estudios Históricos de El Colegio de Michoacán, A.C. (CPI-CONACYT), México.
     fr: |
         Víctor Gayol est enseignant-chercheur en histoire au Centre d'études historiques (Centro de Estudios Históricos) d'El Colegio de Michoacán, A.C. (CPI-CONACYT) au Mexique.
+    pt: |
+        Víctor Gayol é um pesquisador e professor em História no Centro de Estudos Históricos do Colegio de Michoacán, A.C. (CPI-CONACYT), México.
   team_roles:
    - spanish
    - editorial
@@ -167,6 +189,8 @@
         Berlin-Brandenburgische Akademie der Wissenschaften, Alemania.
     fr: |
         Académie des sciences de Berlin-Brandebourg, Allemagne.
+    pt: |
+        Academia de Ciências de Berlin-Brandebourg, Alemanha.
   bio:
     en: |
         Antonio Rojas Castro is a researcher at the Berlin-Brandenburgische Akademie der Wissenschaften, with a PhD in Humanities (Spanish Literature).
@@ -174,6 +198,8 @@
         Antonio Rojas Castro tiene un doctorado en Humanidades (Universitat Pompeu Fabra) y trabaja como investigador en la Berlin-Brandenburgische Akademie der Wissenschaften.
     fr: |
         Antonio Rojas Castro est docteur en Littérature espagnole (Université Pompeu Fabra) et chercheur à l'Académie des sciences de Berlin-Brandebourg.
+    pt: |
+        Antonio Rojas Castro é doutor em Literatura Espanhola (Université Pompeu Fabra) e pesquisador na Academia de Ciências de Berlin-Brandebourg.
   team_roles:
    - spanish
    - editorial
@@ -281,6 +307,8 @@
         James Baker es profesor titular en Historia Digital y Archivos en la Universidad de Sussex; su línea de investigación es el cruce histórico de personas y objetos.
     fr: |
         James Baker est maître de conférences en histoire numérique et en archivistique à l'Université du Sussex; il est spécialiste en histoire des interactions entre personnes et objets.
+    pt: |
+        James Baker é professor titula de História Digital e Arquivos na Universidade de Sussex; sua linha pesquisa é o cruzamento histórico de pessoas e objetos.
   team_roles:
    - proghist
    - finance-manager
@@ -519,6 +547,8 @@
         Carnegie Mellon University, Estados Unidos.
     fr: |
         Carnegie Mellon University, États-Unis.
+    pt: |
+        Carnegie Mellon University, EUA.
   bio:
     en: |
         Matthew Lincoln is the digital humanities developer at Carnegie Mellon University, and an art historian of early modern Europe.
@@ -526,6 +556,8 @@
         Matthew Lincoln es desarrollador de humanidades digitales en la Universidad Carnegie Mellon e historiador del arte de la Europa moderna.
     fr: |
         Matthew Lincoln est développeur en humanités numériques à l'Université Carnegie Mellon et historien de l'art européen moderne.
+    pt: |
+        Matthew Lincoln é desenvolvedor em humanides digitais na Universidade Carnegie Mellon e historiador em Arte na Europa Contemporânea.
   team_roles:
    - proghist
    - technical-lead
@@ -549,6 +581,8 @@
         Boston College, Estados Unidos.
     fr: |
         Boston College, États-Unis.
+    pt: |
+        Boston College, EUA.
   bio:
     en: |
         Sarah Melton is the Head of Digital Scholarship at Boston College.
@@ -556,6 +590,8 @@
         Sarah Melton es la jefa de estudios digitales del Boston College.
     fr: |
         Sarah Melton est responsable des études numériques au Boston College.
+    pt: |
+        Sarah Melton é chefe dos Estudos Digitais no Boston College.
   team_roles:
    - managing
    - editorial
@@ -584,6 +620,8 @@
         Universidad de Virginia, Estados Unidos.
     fr: |
         Université de Virginie, États-Unis.
+    pt: |
+        Universidade de Virgina, EUA.
   bio:
     en: |
         Amanda Visconti is Managing Director at the University of Virginia Scholars' Lab DH center.
@@ -591,6 +629,8 @@
         Amanda Visconti es Directora general del centro de Humanidades Digitales Scholars' Lab en la Universidad de Virginia.
     fr: |
         Amanda Visconti est directrice du centre des humanités numériques du Scholars' Lab de l'Université de Virginie.
+    pt: |
+        Amanda Visconti é diretora do Virginia Scholars' Lab DH center da Universidade de Virgínia.
   team_roles:
    - ombuds
    - english
@@ -621,6 +661,8 @@
         Universidad de Virginia, Estados Unidos.
     fr: |
         Université de Virginie, États-Unis.
+    pt: |
+        Universidade de Virgina, EUA.
   bio:
     en: |
         Brandon Walsh is Head of Graduate Programs in the Scholars' Lab in the University of Virginia Library.
@@ -628,6 +670,8 @@
         Brandon Walsh es Jefe de Programas de Posgrado en el Laboratorio de Estudiosos en la Biblioteca de la Universidad de Virginia.
     fr: |
         Brandon Walsh est responsable des programmes des deuxième et troisième cycles au Scholar's Lab de l'Université de Virginie.
+    pt: |
+        Brandon Walsh é responsável pelos programas de graduação no Scholar's Lab da Biblioteca da Universidade de Virgínia.
   team_roles:
    - proghist
    - editorial
@@ -708,6 +752,8 @@
         Simmons College, Estados Unidos.
     fr: |
         Simmons College, États-Unis.
+    pt: |
+        Simmons College, EUA.
   bio:
     en: |
         Jessica Parr is a Lecturer in History at Simmons College (Boston).
@@ -716,6 +762,8 @@
         Jessica Parr enseña en el Simmons College (Boston). Es especialista en la historia del mundo Atlántico moderno temprano.
     fr: |
         Jessica Parr est maîtresse de conférences au Simmons College à Boston et spécialiste du monde atlantique à l'époque moderne.
+    pt: |
+        Jessica Parr é professora em no Simmons College em Boston e especialista em História do Mundo Atlântico Moderno.
   team_roles:
    - proghist
    - global-lead
@@ -792,6 +840,8 @@
         Universidad de Emory, Estados Unidos.
     fr: |
         Université Emory, États-Unis.
+    pt: |
+        Universidade de Emory, EUA.
   bio:
     en: |
         Anandi Silva Knuppel is a digital scholarship training coordinator and special projects liaison at Emory University.
@@ -799,6 +849,8 @@
         Anandi Silva Knuppel es coordinadora del programa de Aprendizaje Digital de la Universidad de Emory.
     fr: |
         Anandi Silva Knuppel est coordinatrice des programmes de formation au numérique à l'Université Emory.
+    pt: |
+        Anandi Silva Knuppel é coordenadora dos programas de Aprendizagem Digital da Universidade de Emory.
 
 
 - name: Anna-Maria Sichani
@@ -817,6 +869,8 @@
        University of Sussex
     fr: |
        Université du Sussex
+    pt: |
+       Universidade de Sussex
   bio:
     en: |
         Anna-Maria Sichani is a literary and cultural historian and a Digital Humanist. She is currently a Research Fellow in Media History at the University of Sussex.
@@ -824,6 +878,8 @@
         Anna-Maria Sichani es especialista en Historia cultural y literaria, y en Humanidades Digitales. Actualmente, trabaja como investigadora en Comunicación y Medios en la Universidad de Sussex.
     fr: |
         Anna-Maria Sichani est spécialiste de l'histoire culturelle et de l'histoire de la littérature, mais aussi des humanités numériques. Elle est actuellement chercheuse en histoire des médias à l'Université du Sussex.
+    pt: |
+        Anna-Maria Sichani é especialista em História Cultural e Literária e em Humanidades Digitais. Atualmente trabalha como investigador em Comunicação e Mídia na Universidade de Sussex.
   team_roles:
    - editorial
    - english
@@ -912,11 +968,13 @@
   sortname: Motilla
   affiliation:
     en: |
-        Universidad Autónoma de San Luis Potosí, México.
+        Universidad Autónoma de San Luis Potosí, Mexico.
     es: |
         Universidad Autónoma de San Luis Potosí, México.
     fr: |
         Université autonome de San Luis Potosí, Mexique
+    pt: |
+        Universidade Autônoma de San Luis Potosí, México.
   bio:
     en: |
         José Antonio Motilla is a researcher of history, art, culture and digital humanities at the Universidad Autónoma de San Luis Potosí, México. Director of the “Ricardo B. Anaya" Library (San Luis Potosí, México).
@@ -924,6 +982,8 @@
         José Antonio Motilla es investigador de historia, arte, cultura y humanidades digitales en la Universidad Autónoma de San Luis Potosí, México. Director de la biblioteca "Ricardo B. Anaya" (San Luis Potosí, México).
     fr: |
         José Antonio Motilla est chercheur en histoire, art, culture et humanités numériques à l'Université autonome de San Luis Potosí au Mexique, et directeur de la bibliothèque Ricardo B. Anaya.
+    pt: |
+        José Antonio Motilla é pesquisador de história, arte, cultura e humanidades digitais na Universidade Autônoma de San Luis Potosí (México), et diretor da Biblioteca Ricardo B. Anaya.
   team_roles:
    - spanish
    - editorial
@@ -946,6 +1006,8 @@
         Universidad Estatal de Pensilvania, Estados Unidos.
     fr: |
         Université d'État de Pennsylvanie, États-Unis.
+    pt: |
+        Universidade do Estado da Pensilvânia, EUA.
   bio:
     en: |
         Jennifer Isasi is an Assistant Research Professor of Digital Scholarship and Director of the Digital Liberal Arts Research Initiative at Penn State, and a PhD on Hispanic Studies.
@@ -953,6 +1015,8 @@
         Jennifer Isasi es Profesora asistente de investigación digital y Directora de la Iniciativa de Investigación Digital en Artes Liberales en Penn State, y doctora en Estudios Hispánicos.
     fr: |
         Jennifer Isasi est professeure adjointe de recherche en études numériques et directrice de la Digital Liberal Arts Research Initiative à Penn State, et titulaire d'un doctorat en Études Hispaniques.
+    pt: |
+        Jennifer Isasi é professor pesquisador adjunto em Estudos Numéricos e diretora da Digital Liberal Arts Research Initiative na Penn State, e PhD em Estudos Hispânicos.
   team_roles:
     - spanish
     - editorial
@@ -991,6 +1055,8 @@
           Université d'Ottawa, Canada
       es: |
           Universidad de Ottawa, Canadá
+      pt: |
+          Universidade de Ottawa, Canadá
   team_roles:
     - french
     - editorial
@@ -1007,6 +1073,9 @@
       es: |
           François Dominic Laramée es investigador postdoctoral de historia digital de la medicina en la Universidad de Ottawa en Canadá.
           Tiene un máster en Informática y en Historia de los Estados Unidos; ha trabajado como desarrollador de videojuegos, escribiendo guiones para televisión y como artista en Québec.
+      pt: |
+          François Dominic Laramée é pós-doutorando em História Digital da Medicina na Universidad de Ottawa (Canadá).
+          Tem mestrado em Informática e História dos Estados Unidos da América; Tem trabalhado como desenvolvedor de jogos digitais, escrevendo guias para televisão e como artista em Québec.
 
 - name: Jeff Blackadar
   team: false
@@ -1042,6 +1111,8 @@
             Martin Grandjean est chercheur en histoire contemporaine à l'Université de Lausanne (Suisse). Ses travaux portent sur l'analyse et la visualisation de grands jeux de données historiques.
         es: |
             Martin Grandjean es investigador en historia contemporánea en la Universidad de Lausanne (Suiza). Su trabajo se enfoca en el análisis y la visualización de grandes conjuntos de datos históricos.
+        pt: |
+            Martin Grandjean é pesquiador em História Contemporânea da Universidad de Lausanne (Suiça). Seu trabalho foca na análise e visualização de grandes conjuntos de dados históricos.
 
 - name: Sofia Papastamkou
   email: spapastamkou@gmail.com
@@ -1059,6 +1130,8 @@
             Institut de recherches historiques du Septentrion (IRHiS, CNRS/Universidad de Lille)
         fr: |
             Institut de recherches historiques du Septentrion (IRHiS UMR 8529, CNRS/Université de Lille)
+        pt: |
+            Instituto de Pesquisas Históricas do Septentrion (IRHiS UMR 8529, CNRS/Université de Lille)
   team_roles:
     - managing
     - french
@@ -1076,6 +1149,8 @@
             Sofia Papastamkou es historiadora e investigadora en Humanidades Digitales en el Centre national de la recherche scientifique (CNRS). Actualmente, su labor está asociada con el Institut de recherches historiques du Septentrion (IRHiS, CNRS/Universidad de Lille).
         fr: |
             Sofia Papastamkou est docteure en histoire et ingénieure d'études en humanités numériques au CNRS. Elle est affectée à l'Institut de recherches historiques du Septentrion (IRHiS UMR 8529, CNRS/Université de Lille)
+        pt: |
+            Sofia Papastamkou é Doutora em História e pesquisadora engenheira em Humanidades Digitais no CNRS.
 
 - name: Marie Puren
   team: false
@@ -1113,6 +1188,8 @@
             Marie-Christine Boucher es doctoranda en literatura alemana en la Universidad Justus Liebig de Giessen (Alemania).
         fr: |
             Marie-Christine Boucher est doctorante en littérature allemande à l'Université Justus-Liebig de Giessen (Allemagne).
+        pt: |
+            Marie-Christine Boucher é Doutoranda em Literatura Alemã da Universidade Justus-Liebig de Giessen (Alemanha).
 
 - name: Charlie Harper
   team: false
@@ -1156,7 +1233,9 @@
     es: |
         Zoe LeBlanc es desarrolladora de proyectos de Humanidades Digitales en el Scholars' Lab de la Universidad de Virginia Library.
     fr: |
-        Zoe LeBlanc est développeuse spécialiste des Humanités Numériques au Scholar's Lab de l'Université de Virginie..
+        Zoe LeBlanc est développeuse spécialiste des Humanités Numériques au Scholar's Lab de l'Université de Virginie.
+    pt: |
+        Zoe LeBlanc é desenvolvedor especialista em Humanidades Digitais no Scholar's Lab da Universidade de Virginie.
   team_roles:
    - editorial
    - english
@@ -1198,6 +1277,8 @@
         Riva Quiroga es estudiante de doctorado en Lingüística en la Universidad Católica de Chile.
     fr: |
         Riva Quiroga est doctorante en linguistique à l'Université Catholique de Chili.
+    pt: |
+        Riva Quiroga é Doutorando em Linguística na Universidade Católica do Chile.
   team_roles:
     - managing
     - spanish
@@ -1223,6 +1304,8 @@
         Universidad de Texas en Austin.
     fr: |
         Université du Texas à Austin.
+    pt: |
+        Universidade do Texas em Austin.
   bio:
     en: |
         Joshua G. Ortiz Baco is a PhD student in Spanish and Portuguese at the University of Texas, at Austin.
@@ -1230,6 +1313,8 @@
         Joshua G. Ortiz Baco es estudiante de doctorado en Español y Portugués en la Universidad de Texas en Austin.
     fr: |
         Joshua G. Ortiz Baco est un doctorant en espagnol et portugais de l'Université du Texas à Austin.
+    pt: |
+        Joshua G. Ortiz Baco é Doutorando em Espanhol e Português na Universidade do Texas em Austin.
   team_roles:
     - spanish
     - editorial
@@ -1260,6 +1345,8 @@
         El Colegio de México, México.
     fr: |
         El Colegio de México, Mexique.
+    pt: |
+        El Colegio de México, México.
   bio:
     en: |
         Silvia Gutiérrez De la Torre is El Colegio de México's Digital Humanities Librarian and RLadiesCDMX co-founder (Mexico).
@@ -1267,6 +1354,8 @@
         Silvia Gutiérrez De la Torre es la Bibliotecaria de Humanidades Digitales de El Colegio de México y co-fundadora de RLadiesCDMX (México).
     fr: |
         Silvia Gutiérrez De la Torre est la bibliothécaire des Humanités numériques du El Colegio de México et co-fondatrice de RLadiesCDMX (Mexique).
+    pt: |
+        Silvia Gutiérrez De la Torre é bibliotecária na Biblioteca de Humanidades Digitais no El Colegio de México et co-fundadora do RLadiesCDMX (México).
   team_roles:
    - spanish
    - ombuds
