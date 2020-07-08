@@ -1338,3 +1338,10 @@
   bio:
       es: |
         Jairo Melo es Doctor en historia por El Colegio de Michoacán. Es investigador independiente en historia digital y humanidades digitales.
+
+- name: Josir Cardoso Gomes
+  team: false
+  orcid: 0000-0001-7629-1404
+  bio:
+      en: |
+        Josir Gomes is a PhD student in Information Science at PPGCI/IBICT/UFRJ - Federal University of Rio de Janeiro. Graduated in Computer Science, with emphasis on Information Systems Development, acting mainly with relational databases, data mining and free software.
